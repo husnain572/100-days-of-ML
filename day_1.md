@@ -25,7 +25,7 @@ Machine Learning:
 ## What is Data Mining?
 
 Data Mining:
-- Process of discovering patterns, trends, and useful information from large datasets/
+- Process of discovering patterns, trends, and useful information from large datasets.
 
 Relation with ML:
 - Data Mining = Extract insights from data
