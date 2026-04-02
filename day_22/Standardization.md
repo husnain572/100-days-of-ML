@@ -23,12 +23,11 @@ Feature Scaling is the process of **bringing all features to a similar scale/ran
 ## Types of Feature Scaling
 ### 1. Standardization (Z-score Normalization)
 
-
-
-
 ### Where:
 $$
-\mu = mean= 0\\   
+\mu = mean= 0
+$$
+$$
 \sigma = standard deviation = 1  
 $$
 
