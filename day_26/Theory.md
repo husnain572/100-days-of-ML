@@ -89,13 +89,13 @@ $$
 - Apply any user-defined mathematical function
 
 ### Examples:
-- $$
-x^2,\; x^3
-$$
+<p align="center">
+  x², x³
+</p>
 
-- $$
-\sin(x),\; e^x
-$$
+<p align="center">
+  sin(x), eˣ
+</p>
 
 ### When to Use:
 - Based on domain knowledge
